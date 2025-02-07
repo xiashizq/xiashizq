@@ -17,7 +17,7 @@
 
 ###  ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ 
 
-![](https://github-readme-stats-eight-theta.vercel.app/api?username=xiashizq&hide_border=true&show_icons=true&theme=bear&include_all_commits=true&count_private=true)
+[material-palenight]: https://github-readme-stats.vercel.app/api?username=xiashizq&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=material-palenight
 
 ![](https://raw.githubusercontent.com/xiashizq/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/xiashizq/github-stats-transparent/output/generated/languages.svg)
