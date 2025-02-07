@@ -22,6 +22,9 @@
 ![](https://raw.githubusercontent.com/xiashizq/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/xiashizq/github-stats-transparent/output/generated/languages.svg)
 
+<div align="center"> <img src="https://metrics.lecoq.io/xiashizq?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
+
 ### ⚡ Visitor count
 ![](https://profile-counter.glitch.me/xiashizq/count.svg)
 
