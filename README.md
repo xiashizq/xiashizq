@@ -19,9 +19,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=xiashizq&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=material-palenight)
 
-![](https://raw.githubusercontent.com/xiashizq/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/xiashizq/github-stats-transparent/output/generated/languages.svg)
-
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xiashizq&theme=github-compact)
 
 
