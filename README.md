@@ -1,7 +1,7 @@
 🌱 I’m currently learning ...
 <br>
 
-Email:nekomiao@vip.qq.com
+Email：nekomiao@vip.qq.com
 
 ### ⚡ Technologies  
 
