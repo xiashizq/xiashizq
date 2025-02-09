@@ -22,6 +22,7 @@ Email：nekomiao@vip.qq.com
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xiashizq&theme=github-compact)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiashizq&layout=pie)
 
 ### ⚡ Visitor count
 ![](https://profile-counter.glitch.me/xiashizq/count.svg)
